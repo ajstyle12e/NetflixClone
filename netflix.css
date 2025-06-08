@@ -24,7 +24,7 @@ body{
 
 }
 .logo{
-    height: 25px;
+    height: 24px;
     cursor: pointer;
 }
 .navbar-nav{
@@ -54,7 +54,7 @@ cursor: pointer;
     width: 32px;
     height: 32px;
     cursor: pointer;
-    border-radius: 6px;
+    border-radius: 5px;
 }
 .fake-header{
     height: 75px;
@@ -81,7 +81,7 @@ cursor: pointer;
     align-items: center;
     justify-content: center;    
     display: flex;
-    padding: 0 60px;
+    padding: 0 64px;
     margin-bottom: 20px;
 }
 .Hero-content{
@@ -135,10 +135,10 @@ cursor: pointer;
 }
 .content-title{
     margin-top: 20px;
-    font-weight: 700;
+    font-weight: 750;
     font-size: 1.8rem;
     margin-bottom: 20px;
-    letter-spacing: 0.5px;
+    letter-spacing: 0.6px;
 
 }
 .content-row{
@@ -166,7 +166,7 @@ cursor: pointer;
     cursor: pointer;
     transition: all 0.3s ease;
     flex-shrink: 0;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
 }
 .content-card img{
     transition: brightness 0.3s ease;
@@ -190,7 +190,7 @@ cursor: pointer;
     justify-content: center;
     font-weight: bold;
     border-radius: 5px;
-    font-size: 14px;
+    font-size: 15px;
     z-index: 2;
 
 }
@@ -252,7 +252,7 @@ cursor: pointer;
     color: white;
     font-size: 14px;
 }
-.contro-btn:hover{
+.control-btn:hover{
     background: rgba(255,255,255,0.3);
     transform: scale(1.1);
 }
